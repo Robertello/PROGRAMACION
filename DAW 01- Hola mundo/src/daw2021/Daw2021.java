@@ -15,7 +15,7 @@ public class Daw2021 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-            System.out.println("Hola Mundo");
+            System.out.println("Hola Mundo mio");
         // TODO code application logic here
     }
     

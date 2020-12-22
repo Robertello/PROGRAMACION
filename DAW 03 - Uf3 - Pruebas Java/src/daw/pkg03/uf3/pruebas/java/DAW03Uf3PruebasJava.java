@@ -20,12 +20,7 @@ float precio;
 
 System.out.println("Introduce el precio de tu producto");
 
-System.in.read(precio);
 
-float descuento = (precio<50F)?precio*0.05F:precio*0.10F;
-System.out.println("Precio: "+precio);
-System.out.println("Descuento: "+descuento);
-System.out.println("Total: "+(precio-descuento));
        
 
     }
